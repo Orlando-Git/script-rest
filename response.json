@@ -1,0 +1,1057 @@
+{
+  "itemsPerPage" : 27,
+  "startIndex" : 1,
+  "Resources" : [ {
+    "id" : "8F2DF1DCA36EE66BE0506C0A3E416730",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/8F2DF1DCA36EE66BE0506C0A3E416730",
+      "resourceType" : "User",
+      "created" : "2019-10-25 10:31:26.000",
+      "lastModified" : "2020-04-01 22:58:10.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "ANTONIO.LIUNI",
+    "name" : {
+      "familyName" : "LIUNI",
+      "givenName" : "ANTONIO"
+    },
+    "displayName" : "ANTONIO LIUNI",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "a.liuni@gmail.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "FC36A4E04EC84AD38C7B46A0B4E403B7",
+      "value" : "ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB",
+      "displayName" : "Application Implementation Consultant",
+      "description" : "Manages enterprise-wide implementations. Collaborates with specific application administrators to implement consistent enterprise application setup, architecture, information, rules, and access. Has access to all setup tasks across all products."
+    }, {
+      "id" : "3B7580E51CAB4CEDA635EFD1D4BB8655",
+      "value" : "ORA_FND_IT_SECURITY_MANAGER_JOB",
+      "displayName" : "IT Security Manager",
+      "description" : "Protects assets such as information technology systems, data, and networks."
+    }, {
+      "id" : "CC1DD736A7974334BC69E4FAC3B471C1",
+      "value" : "ORA_FND_DIAG_ADMINISTRATOR_JOB",
+      "displayName" : "Application Diagnostics Administrator",
+      "description" : "Manages diagnostic tests and data."
+    }, {
+      "id" : "58B55FD464694D7683C7FA687D548757",
+      "value" : "ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB",
+      "displayName" : "Human Capital Management Integration Specialist",
+      "description" : "Individual responsible for planning, coordinating, and supervising all activities related to the integration of human capital management information systems."
+    }, {
+      "id" : "E5F6791D8D1045199060D3953F3E66E9",
+      "value" : "ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB",
+      "displayName" : "Human Capital Management Application Administrator",
+      "description" : "Configures the Oracle Fusion Global Human Resources application and has access to all duty roles necessary to implement the Compensation, Workforce Deployment, and Workforce Development offerings."
+    }, {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "BEBF1747731B46D3908DA79AF3DFB4EB",
+      "value" : "ORA_PAY_PAYROLL_MANAGER_JOB",
+      "displayName" : "Payroll Manager",
+      "description" : "Manages all aspects of payroll business processes through setup, data entry, running payroll processes and reports, and verifying and correcting calculated results."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "BC83FD85919F49A5A84EC26E8BCE6E07",
+      "value" : "ORA_PAY_PAYROLL_ADMINISTRATOR_JOB",
+      "displayName" : "Payroll Administrator",
+      "description" : "Assists with running a company's payroll and responds to employees' questions concerning payroll. They run various payroll processes, print out statement of earnings, reconcile charges, reconcile time sheets, verify payroll items, and verify payroll results."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    }, {
+      "id" : "AA9CBDB8E038421BAE3A4615E258A3BF",
+      "value" : "PER_HUMAN_RESOURCE_SPECIALIST_JOB_CUSTOM",
+      "displayName" : "Human Resource Specialist (Custom)",
+      "description" : "Performs duties of a human resources specialist."
+    }, {
+      "id" : "B594350B77314A3FB415C183B0EC29D9",
+      "value" : "HRANALYST_VIEWALL_DATA",
+      "displayName" : "HRAnalyst_ViewAll",
+      "description" : "HRAnalyst_ViewAll Data"
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "1001",
+        "manager" : "null",
+        "businessUnit" : "UFFICIO AFFARI GENERALI",
+        "department" : "null"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "9E0D68370AB3E680E0506C0A3E411B24",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D68370AB3E680E0506C0A3E411B24",
+      "resourceType" : "User",
+      "created" : "2020-03-31 12:44:25.000",
+      "lastModified" : "2020-03-31 12:44:25.332"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "r.arpaia4@swdes.it",
+    "name" : {
+      "familyName" : "Arpaia",
+      "givenName" : "Raffaele"
+    },
+    "displayName" : "Raffaele Arpaia",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "r.arpaia@swdes.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "1",
+        "manager" : "null",
+        "job" : "04_FUNZIONARIO",
+        "businessUnit" : "UFFICIO AFFARI GENERALI",
+        "department" : "PBD-Servizio programmazione, bilancio e digittalizzazione"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "8F2DF23BE9D3CF0BE0506C0A3E41675F",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/8F2DF23BE9D3CF0BE0506C0A3E41675F",
+      "resourceType" : "User",
+      "created" : "2019-09-24 09:21:50.000",
+      "lastModified" : "2019-11-21 15:15:21.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "GIUSEPPE.SEVERO",
+    "name" : {
+      "familyName" : "SEVERO",
+      "givenName" : "GIUSEPPE"
+    },
+    "displayName" : "GIUSEPPE SEVERO",
+    "preferredLanguage" : "en",
+    "roles" : [ {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "112233",
+        "manager" : "LOREDANA VAJANO",
+        "job" : "04_FUNZIONARIO",
+        "businessUnit" : "BU01",
+        "department" : "PBD-Servizio programmazione, bilancio e digittalizzazione"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "84FCF2D13D455102E0506C0A3E4118C9",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/84FCF2D13D455102E0506C0A3E4118C9",
+      "resourceType" : "User",
+      "created" : "2019-03-26 11:42:17.000",
+      "lastModified" : "2019-08-27 13:53:30.950"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "em_monitoring",
+    "name" : {
+      "familyName" : "em_monitoring",
+      "givenName" : "em_monitoring"
+    },
+    "displayName" : "em_monitoring",
+    "emails" : [ {
+      "value" : "em_monitoring",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "9E0D688E39385414E0506C0A3E411B53",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D688E39385414E0506C0A3E411B53",
+      "resourceType" : "User",
+      "created" : "2020-04-01 22:25:55.170",
+      "lastModified" : "2020-04-04 16:59:42.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "r.borriello@agcom.it",
+    "name" : {
+      "familyName" : "BORRIELLO",
+      "givenName" : "ROMINA"
+    },
+    "displayName" : "ROMINA BORRIELLO",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "r.arpaia@swdes.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "1100001921",
+        "manager" : "LOREDANA VAJANO",
+        "job" : "05_OPERATIVO",
+        "businessUnit" : "BU01",
+        "department" : "SERVIZIO PROGRAMMAZIONE, BILANCIO DIGITALIZZAZIONE"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "84FCF2D13D475102E0506C0A3E4118C9",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/84FCF2D13D475102E0506C0A3E4118C9",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:31.199",
+      "lastModified" : "2019-08-27 13:53:31.379"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "fa_guest",
+    "name" : {
+      "familyName" : "fa_guest",
+      "givenName" : "fa_guest"
+    },
+    "displayName" : "fa_guest",
+    "emails" : [ {
+      "value" : "fa_guest",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F880317D7AAD38AE050F50AA9402F71",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F880317D7AAD38AE050F50AA9402F71",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:32.062",
+      "lastModified" : "2019-08-27 13:53:32.075"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "FAAdmin",
+    "name" : {
+      "familyName" : "FAAdmin",
+      "givenName" : "FAAdmin"
+    },
+    "emails" : [ {
+      "value" : "FAAdmin@company.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F88F2E0AA144FE6E050F50AA940123B",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F88F2E0AA144FE6E050F50AA940123B",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:32.153",
+      "lastModified" : "2019-08-27 13:53:32.164"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "faoperator",
+    "name" : {
+      "familyName" : "faoperator",
+      "givenName" : "faoperator"
+    },
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "88035DBF4CF86567E0506C0A3E417575",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/88035DBF4CF86567E0506C0A3E417575",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:32.250",
+      "lastModified" : "2019-08-27 13:53:32.267"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "FAWService",
+    "name" : {
+      "familyName" : "FAWService",
+      "givenName" : "FAWService"
+    },
+    "displayName" : "FAWService",
+    "roles" : [ {
+      "id" : "1429AF0528FF40B8A2B8A9F394EB7FCE",
+      "value" : "ORA_ASM_APPLICATION_IMPLEMENTATION_ADMIN_ABSTRACT",
+      "displayName" : "Application Implementation Administrator",
+      "description" : "Performs all Oracle Fusion Functional Setup Manager duties."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F880317D7A8D38AE050F50AA9402F71",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F880317D7A8D38AE050F50AA9402F71",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:42.357",
+      "lastModified" : "2019-08-27 13:53:42.366"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "IDROUser",
+    "name" : {
+      "familyName" : "IDROUser",
+      "givenName" : "IDROUser"
+    },
+    "emails" : [ {
+      "value" : "IDROUser@company.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F880317D7A9D38AE050F50AA9402F71",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F880317D7A9D38AE050F50AA9402F71",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:42.436",
+      "lastModified" : "2019-08-27 13:53:42.445"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "IDRWUser",
+    "name" : {
+      "familyName" : "IDRWUser",
+      "givenName" : "IDRWUser"
+    },
+    "emails" : [ {
+      "value" : "IDRWUser@company.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F880317D7AED38AE050F50AA9402F71",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F880317D7AED38AE050F50AA9402F71",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:42.517",
+      "lastModified" : "2019-08-27 13:53:42.529"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "oamAdminUser",
+    "name" : {
+      "familyName" : "oamAdminUser",
+      "givenName" : "oamAdminUser"
+    },
+    "emails" : [ {
+      "value" : "oamAdminUser@company.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F87FAD91CC2DEB3E050F50AA9402EDE",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F87FAD91CC2DEB3E050F50AA9402EDE",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:42.622",
+      "lastModified" : "2019-08-27 13:53:42.631"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "orcladmin",
+    "name" : {
+      "familyName" : "orcladmin",
+      "givenName" : "orcladmin"
+    },
+    "emails" : [ {
+      "value" : "orcladmin",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F87FAD91CC3DEB3E050F50AA9402EDE",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F87FAD91CC3DEB3E050F50AA9402EDE",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:42.706",
+      "lastModified" : "2019-08-27 13:53:42.715"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "PUBLIC",
+    "name" : {
+      "familyName" : "PUBLIC",
+      "givenName" : "PUBLIC"
+    },
+    "emails" : [ {
+      "value" : "PUBLIC",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "84FCF2D13D465102E0506C0A3E4118C9",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/84FCF2D13D465102E0506C0A3E4118C9",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:42.790",
+      "lastModified" : "2019-08-27 13:53:42.798"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "rats_monitoring",
+    "name" : {
+      "familyName" : "rats_monitoring",
+      "givenName" : "rats_monitoring"
+    },
+    "displayName" : "rats_monitoring",
+    "emails" : [ {
+      "value" : "rats_monitoring@oracle.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "7F880317D7ABD38AE050F50AA9402F71",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/7F880317D7ABD38AE050F50AA9402F71",
+      "resourceType" : "User",
+      "created" : "2019-08-27 13:53:42.923",
+      "lastModified" : "2019-08-27 13:53:42.933"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "weblogic_idm",
+    "name" : {
+      "familyName" : "weblogic_idm",
+      "givenName" : "weblogic_idm"
+    },
+    "emails" : [ {
+      "value" : "weblogic_idm@company.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "8F2DF23BE9CECF0BE0506C0A3E41675F",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/8F2DF23BE9CECF0BE0506C0A3E41675F",
+      "resourceType" : "User",
+      "created" : "2019-09-09 15:17:30.000",
+      "lastModified" : "2019-11-04 16:58:07.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "LOREDANA.VAJANO",
+    "name" : {
+      "familyName" : "VAJANO",
+      "givenName" : "LOREDANA"
+    },
+    "displayName" : "LOREDANA VAJANO",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "r.arpaia@swdes.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "E9C0D4F9EF7F4B9494B1833410E9A0A6",
+      "value" : "ORA_PER_LINE_MANAGER_ABSTRACT",
+      "displayName" : "Line Manager",
+      "description" : "Identifies the person as a line manager."
+    }, {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "6",
+        "manager" : "null",
+        "job" : "02_DIRETTORE",
+        "businessUnit" : "BU01",
+        "department" : "PBD-Servizio programmazione, bilancio e digittalizzazione"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "8F2DF23BE9D4CF0BE0506C0A3E41675F",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/8F2DF23BE9D4CF0BE0506C0A3E41675F",
+      "resourceType" : "User",
+      "created" : "2019-10-08 09:41:14.000",
+      "lastModified" : "2020-04-02 10:52:16.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "SILVIO.MAOLONI",
+    "name" : {
+      "familyName" : "MAOLONI",
+      "givenName" : "SILVIO"
+    },
+    "displayName" : "SILVIO MAOLONI",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "r.arpaia@swdes.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "3B7580E51CAB4CEDA635EFD1D4BB8655",
+      "value" : "ORA_FND_IT_SECURITY_MANAGER_JOB",
+      "displayName" : "IT Security Manager",
+      "description" : "Protects assets such as information technology systems, data, and networks."
+    }, {
+      "id" : "58B55FD464694D7683C7FA687D548757",
+      "value" : "ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB",
+      "displayName" : "Human Capital Management Integration Specialist",
+      "description" : "Individual responsible for planning, coordinating, and supervising all activities related to the integration of human capital management information systems."
+    }, {
+      "id" : "E5F6791D8D1045199060D3953F3E66E9",
+      "value" : "ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB",
+      "displayName" : "Human Capital Management Application Administrator",
+      "description" : "Configures the Oracle Fusion Global Human Resources application and has access to all duty roles necessary to implement the Compensation, Workforce Deployment, and Workforce Development offerings."
+    }, {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "B79F130F141F46719D53E8CBFD908E5A",
+      "value" : "ORA_HWR_EMPLOYEE_DEVELOPMENT_MANAGER_JOB",
+      "displayName" : "Employee Development Manager",
+      "description" : "Individual responsible for managing employee development through personal brand management."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "334455",
+        "manager" : "LOREDANA VAJANO",
+        "job" : "05_OPERATIVO",
+        "businessUnit" : "BU01",
+        "department" : "PBD-Servizio programmazione, bilancio e digittalizzazione"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "96DDB6F5D6415458E0506C0A3E411749",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/96DDB6F5D6415458E0506C0A3E411749",
+      "resourceType" : "User",
+      "created" : "2019-11-21 14:35:52.000",
+      "lastModified" : "2019-11-21 14:35:59.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "r.arpaia1@swdes.it",
+    "name" : {
+      "familyName" : "SICA",
+      "givenName" : "ANDREA"
+    },
+    "displayName" : "ANDREA SICA",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "r.arpaia@swdes.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "96DDB698E4BF3A37E0506C0A3E41171A",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/96DDB698E4BF3A37E0506C0A3E41171A",
+      "resourceType" : "User",
+      "created" : "2019-12-09 00:15:44.000",
+      "lastModified" : "2020-04-02 08:28:42.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "test_test_test",
+    "name" : {
+      "familyName" : "LIUNI",
+      "givenName" : "ANTONIO"
+    },
+    "displayName" : "ANTONIO LIUNI",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "a.liuni@gmail.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "14",
+        "manager" : "null",
+        "businessUnit" : "BU01",
+        "department" : "null"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "84FCF2D13D445102E0506C0A3E4118C9",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/84FCF2D13D445102E0506C0A3E4118C9",
+      "resourceType" : "User",
+      "created" : "2019-03-27 12:31:22.000",
+      "lastModified" : "2019-08-27 13:53:31.192"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "f.rossi@agcom.it",
+    "name" : {
+      "familyName" : "Rossi",
+      "givenName" : "Francesco"
+    },
+    "displayName" : "f.rossi@agcom.it",
+    "emails" : [ {
+      "value" : "f.rossi@agcom.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "FC36A4E04EC84AD38C7B46A0B4E403B7",
+      "value" : "ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB",
+      "displayName" : "Application Implementation Consultant",
+      "description" : "Manages enterprise-wide implementations. Collaborates with specific application administrators to implement consistent enterprise application setup, architecture, information, rules, and access. Has access to all setup tasks across all products."
+    }, {
+      "id" : "3B7580E51CAB4CEDA635EFD1D4BB8655",
+      "value" : "ORA_FND_IT_SECURITY_MANAGER_JOB",
+      "displayName" : "IT Security Manager",
+      "description" : "Protects assets such as information technology systems, data, and networks."
+    }, {
+      "id" : "CC1DD736A7974334BC69E4FAC3B471C1",
+      "value" : "ORA_FND_DIAG_ADMINISTRATOR_JOB",
+      "displayName" : "Application Diagnostics Administrator",
+      "description" : "Manages diagnostic tests and data."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "8F2DF1DCA369E66BE0506C0A3E416730",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/8F2DF1DCA369E66BE0506C0A3E416730",
+      "resourceType" : "User",
+      "created" : "2019-08-22 14:58:47.000",
+      "lastModified" : "2020-02-20 15:24:35.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "externalId" : "elgv-test_gsi_2019-08-22_14:57:41",
+    "userName" : "r.arpaia@swdes.it",
+    "name" : {
+      "familyName" : "Arpaia",
+      "givenName" : "Raffaele"
+    },
+    "displayName" : "Raffaele Arpaia",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "r.arpaia@swdes.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "FC36A4E04EC84AD38C7B46A0B4E403B7",
+      "value" : "ORA_ASM_APPLICATION_IMPLEMENTATION_CONSULTANT_JOB",
+      "displayName" : "Application Implementation Consultant",
+      "description" : "Manages enterprise-wide implementations. Collaborates with specific application administrators to implement consistent enterprise application setup, architecture, information, rules, and access. Has access to all setup tasks across all products."
+    }, {
+      "id" : "3B7580E51CAB4CEDA635EFD1D4BB8655",
+      "value" : "ORA_FND_IT_SECURITY_MANAGER_JOB",
+      "displayName" : "IT Security Manager",
+      "description" : "Protects assets such as information technology systems, data, and networks."
+    }, {
+      "id" : "CC1DD736A7974334BC69E4FAC3B471C1",
+      "value" : "ORA_FND_DIAG_ADMINISTRATOR_JOB",
+      "displayName" : "Application Diagnostics Administrator",
+      "description" : "Manages diagnostic tests and data."
+    }, {
+      "id" : "58B55FD464694D7683C7FA687D548757",
+      "value" : "ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_INTEGRATION_SPECIALIST_JOB",
+      "displayName" : "Human Capital Management Integration Specialist",
+      "description" : "Individual responsible for planning, coordinating, and supervising all activities related to the integration of human capital management information systems."
+    }, {
+      "id" : "E5F6791D8D1045199060D3953F3E66E9",
+      "value" : "ORA_HRC_HUMAN_CAPITAL_MANAGEMENT_APPLICATION_ADMINISTRATOR_JOB",
+      "displayName" : "Human Capital Management Application Administrator",
+      "description" : "Configures the Oracle Fusion Global Human Resources application and has access to all duty roles necessary to implement the Compensation, Workforce Deployment, and Workforce Development offerings."
+    }, {
+      "id" : "D909B8CD3DFA43E5B80128F6F4AAFC69",
+      "value" : "ORA_PER_RECRUITING_ADMINISTRATOR_JOB",
+      "displayName" : "Recruiting Administrator",
+      "description" : "Supports integration with Oracle Taleo Recruiting Cloud Service and configuration of Oracle Recruiting Cloud. In Oracle Taleo Recruiting Cloud Service, a Recruiting Administrator has the permissions to configure almost all recommended features  in the Recruiting and Configuration centers. In Oracle Recruiting Cloud, a Recruiting Administrator can perform recruiting specific configuration, including candidate experience."
+    }, {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    }, {
+      "id" : "AA9CBDB8E038421BAE3A4615E258A3BF",
+      "value" : "PER_HUMAN_RESOURCE_SPECIALIST_JOB_CUSTOM",
+      "displayName" : "Human Resource Specialist (Custom)",
+      "description" : "Performs duties of a human resources specialist."
+    }, {
+      "id" : "0807AC659D994B23BE161211DC55A31D",
+      "value" : "AGCOM_CUSTOM_ROLE_DATA",
+      "displayName" : "AGCOM_CUSTOM_ROLE",
+      "description" : "AGCOM_CUSTOM_ROLE Data"
+    }, {
+      "id" : "B594350B77314A3FB415C183B0EC29D9",
+      "value" : "HRANALYST_VIEWALL_DATA",
+      "displayName" : "HRAnalyst_ViewAll",
+      "description" : "HRAnalyst_ViewAll Data"
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT"
+    },
+    "active" : true
+  }, {
+    "id" : "96DDB6F5D6435458E0506C0A3E411749",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/96DDB6F5D6435458E0506C0A3E411749",
+      "resourceType" : "User",
+      "created" : "2019-12-08 20:49:42.000",
+      "lastModified" : "2020-04-02 08:28:11.000"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "a.liuni@gmail.com",
+    "name" : {
+      "familyName" : "LIUNI manuale",
+      "givenName" : "Antonio"
+    },
+    "displayName" : "Antonio LIUNI manuale",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "a.liuni@gmail.com",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "120120",
+        "manager" : "null",
+        "businessUnit" : "BU01",
+        "department" : "null"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "9E0D688E38E15414E0506C0A3E411B53",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D688E38E15414E0506C0A3E411B53",
+      "resourceType" : "User",
+      "created" : "2020-04-01 22:23:32.483",
+      "lastModified" : "2020-04-03 08:50:04.071"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "s.maoloni@agcom.it",
+    "name" : {
+      "familyName" : "MAOLONI",
+      "givenName" : "SILVIO"
+    },
+    "displayName" : "SILVIO MAOLONI",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "r.arpaia@swdes.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "1100000483",
+        "manager" : "null",
+        "job" : "05_OPERATIVO",
+        "businessUnit" : "BU01",
+        "department" : "Ufficio contenzioso"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "9E0D688E38E65414E0506C0A3E411B53",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D688E38E65414E0506C0A3E411B53",
+      "resourceType" : "User",
+      "created" : "2020-04-01 22:23:42.253",
+      "lastModified" : "2020-04-01 22:23:45.031"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "p.iaconis@agcom.it",
+    "name" : {
+      "familyName" : "IACONIS",
+      "givenName" : "PAOLA"
+    },
+    "displayName" : "PAOLA IACONIS",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "p.iaconis@agcom.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "1100001950",
+        "manager" : "null",
+        "job" : "99_IMPIEGATO",
+        "businessUnit" : "BU01",
+        "department" : "SERVIZIO PROGRAMMAZIONE, BILANCIO DIGITALIZZAZIONE"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "9E0D68370AC0E680E0506C0A3E411B24",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D68370AC0E680E0506C0A3E411B24",
+      "resourceType" : "User",
+      "created" : "2020-04-01 22:23:47.717",
+      "lastModified" : "2020-04-01 22:23:47.811"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "l.filacchione@agcom.it",
+    "name" : {
+      "familyName" : "FILACCHIONE",
+      "givenName" : "LEANDRA"
+    },
+    "displayName" : "LEANDRA FILACCHIONE",
+    "preferredLanguage" : "en",
+    "emails" : [ {
+      "value" : "l.filacchione@agcom.it",
+      "type" : "W",
+      "primary" : true
+    } ],
+    "roles" : [ {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "1100001949",
+        "manager" : "null",
+        "job" : "99_IMPIEGATO",
+        "businessUnit" : "BU01",
+        "department" : "SERVIZIO GIURIDICO"
+      }
+    },
+    "active" : true
+  }, {
+    "id" : "9E0D68370B5FE680E0506C0A3E411B24",
+    "meta" : {
+      "location" : "https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D68370B5FE680E0506C0A3E411B24",
+      "resourceType" : "User",
+      "created" : "2020-04-02 10:50:27.000",
+      "lastModified" : "2020-04-02 10:50:27.162"
+    },
+    "schemas" : [ "urn:scim:schemas:core:2.0:User", "urn:scim:schemas:extension:fa:2.0:faUser" ],
+    "userName" : "ORLANDO.BELTRAMI",
+    "name" : {
+      "familyName" : "BELTRAMI",
+      "givenName" : "ORLANDO"
+    },
+    "displayName" : "ORLANDO BELTRAMI",
+    "preferredLanguage" : "en",
+    "roles" : [ {
+      "id" : "6D90A4577F42494C80D049ECBD6EE6F6",
+      "value" : "ORA_PER_HUMAN_RESOURCE_MANAGER_JOB",
+      "displayName" : "Human Resource Manager",
+      "description" : "Performs duties of a human resources manager."
+    }, {
+      "id" : "DA1A541D9B344EF8BBCE68E1B23C465B",
+      "value" : "ORA_PER_EMPLOYEE_ABSTRACT",
+      "displayName" : "Employee",
+      "description" : "Identifies the person as an employee."
+    }, {
+      "id" : "D9610443763C4BB182E858C348665967",
+      "value" : "ORA_PER_HUMAN_RESOURCE_SPECIALIST_JOB",
+      "displayName" : "Human Resource Specialist",
+      "description" : "Performs duties of a human resources specialist."
+    } ],
+    "urn:scim:schemas:extension:fa:2.0:faUser" : {
+      "userCategory" : "DEFAULT",
+      "accountType" : "Person",
+      "workerInformation" : {
+        "personNumber" : "556677",
+        "manager" : "null",
+        "businessUnit" : "BU01",
+        "department" : "Ufficio bilancio e contributo operatori"
+      }
+    },
+    "active" : true
+  } ]
+}

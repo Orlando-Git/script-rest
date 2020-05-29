@@ -1,0 +1,1 @@
+curl -i  -u "r.arpaia@swdes.it:Temporanea_1" -H "Content-Type:application/json" -X PATCH -d @payM.json https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D68370ADEE680E0506C0A3E411B24

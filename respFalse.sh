@@ -1,0 +1,3 @@
+curl -i  -u "r.arpaia@swdes.it:Temporanea_1" -H "Content-Type:application/json" -X PATCH -d @pay.json https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/8F2DF23BE9D1CF0BE0506C0A3E41675F;
+curl -i  -u "r.arpaia@swdes.it:Temporanea_1" -H "Content-Type:application/json" -X PATCH -d @pay.json https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/8F2DF1DCA36AE66BE0506C0A3E416730;
+curl -i  -u "r.arpaia@swdes.it:Temporanea_1" -H "Content-Type:application/json" -X PATCH -d @pay.json https://elgv-test.fa.em2.oraclecloud.com:443/hcmRestApi/scim/Users/9E0D688E38DD5414E0506C0A3E411B53;

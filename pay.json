@@ -1,0 +1,6 @@
+{
+ "schemas":[
+  "urn:scim:schemas:core:2.0:User"
+ ],
+ "active":true
+}

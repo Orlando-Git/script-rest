@@ -1,0 +1,12 @@
+{
+ "schemas":[
+  "urn:scim:schemas:core:2.0:User"
+ ],
+"emails": [
+        {
+          "value": "orlbel@libero.it",
+          "type": "W",
+          "primary": true
+        }
+]
+}
